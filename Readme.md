@@ -1,12 +1,12 @@
 ***********************************************************************
 				RANDOM TEAM GENERATOR  (INTERNSHIP TEST) 
 ***********************************************************************
-														By - Karan Kumar
+									By - Karan Kumar
 
 
 
 
-*************************
+
 	DESCRIPTION
 *************************
 
@@ -15,7 +15,7 @@
 	* Logo is present with name
 	* HTML, Css, JavaScript is used in this program.
 
-****************************
+
 	INSTRUCTIONS
 ****************************
 
